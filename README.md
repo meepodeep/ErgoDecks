@@ -13,6 +13,7 @@
 |Kalih Choc 10pc	|4x|$31.00|Be switches|[Little Keyboards](https://www.littlekeyboards.com/collections/keyboard-switches/products/kailh-choc-low-profile-switches)|
 |Filament of your choice|an amount|20$|make the case|wherever you buy filament|
 |301230 lithium battery|2x|$6|Power The boards|[Typeractive](https://typeractive.xyz/products/lithium-battery-110mah?variant=43294731632871)|
+|1N4148 Diodes 100pc|1x|$9.26|be diodes|[Keebio](https://keeb.io/products/1n4148-diodes)|
 |Everything||$129.31|||
 
 **Download Gerbers.zip for the gerbers and ErgoDecks.3mf for the case!**
