@@ -3,6 +3,7 @@ title: "ErgoDecks"
 author: "meepodeep"
 description: "split ergo keyboard with 2 independent wireless halves"
 created_at: "2025-05-23"
+Total time: "9 Hours"
 ---
 # 5/23/25 made the PCB!
 
