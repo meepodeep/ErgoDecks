@@ -13,5 +13,6 @@
 |Kalih Choc 10pc	|4x|$31.00|Be switches|[Little Keyboards](https://www.littlekeyboards.com/collections/keyboard-switches/products/kailh-choc-low-profile-switches)|
 |301230 lithium battery|2x|$6|Power The boards|[Typeractive](https://typeractive.xyz/products/lithium-battery-110mah?variant=43294731632871)|
 |Everything||$109.31|||
+
 ![image](https://github.com/user-attachments/assets/4712b373-c182-4556-9e80-d0b9a6c7b6ed)
 ![image](https://github.com/user-attachments/assets/37c32809-bf4c-4fa4-82bf-326200d589b7)
