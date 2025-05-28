@@ -17,7 +17,7 @@
 |1N4148 Diodes 100pc|1x|$9.26|be diodes|[Keebio](https://keeb.io/products/1n4148-diodes)|
 |Everything||$138.31|||
 
-## **Download Gerbers.zip for the gerbers and ErgoDecks.3mf for the case!**
+## **Download Gerbers.zip for the gerbers and ErgoDecksVx.3mf for the case!**
 - ## **Assembly**
   - Solder diodes onto the PCB.
   - Solder switches onto the PCB.
