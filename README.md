@@ -17,7 +17,7 @@
 |1N4148 Diodes 100pc|1x|$9.26|be diodes|[Aliexpress](https://www.aliexpress.us/item/3256806058794623.html?spm=a2g0o.productlist.main.2.76fa3771JY9hHq&algo_pvid=3d141e2c-c612-4dda-8ee7-d81e18ab9714&algo_exp_id=3d141e2c-c612-4dda-8ee7-d81e18ab9714-1&pdp_ext_f=%7B%22order%22%3A%22914%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.84%211.28%21%21%2113.14%219.15%21%402101c80217484699707521224ee30c%2112000036448323916%21sea%21US%214381910819%21X&curPageLogUid=FxGJkqmD4E5N&utparam-url=scene%3Asearch%7Cquery_from%3A)|
 |Keycaps 1u 10pc|x4|$21.11|be keycaps|[adafruit](https://www.adafruit.com/product/5737)|
 |Keycaps 1.5u 2pc|x2|$4.66|be keycaps|[Aliexpress](https://www.aliexpress.us/item/3256805730011012.html?spm=a2g0o.productlist.main.8.4ba31a67KZIfyi&algo_pvid=95a4ad10-6234-413b-ba30-70ed94a3c48a&algo_exp_id=95a4ad10-6234-413b-ba30-70ed94a3c48a-7&pdp_ext_f=%7B%22order%22%3A%2263%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%212.33%212.33%21%21%212.33%212.33%21%40210337bc17484682352145208eab6e%2112000034838215571%21sea%21US%214381910819%21X&curPageLogUid=KAtk70CozSZd&utparam-url=scene%3Asearch%7Cquery_from%3A)|
-|Everything||$93.12|||
+|Everything||$95.88|||
 
 ## **Download Gerbers.zip for the gerbers and ErgoDecksVx.3mf/.step/.f3z for the case!**
 - ## **Assembly**
