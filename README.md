@@ -23,9 +23,8 @@
   - Solder switches onto the PCB.
   - Solder microcontrollers onto the pcb.
   - Solder the battery to the bat terminals on the mcu.
-  - Use m3 bolts to secure the pcb to the bottom half of the case.
   - Attach the battery using double sided tape to the bottom half of the case in the battery area.
-  - Use CA or plastic welding to attach the top half of the case. (more options for reusable mounting may be added in later versions)
+  - Use m3 bolts to secure the pcb and top case to the bottom half of the case.
 
 - ## **Software**
   - install/configure [ZMK](https://zmk.dev/docs/user-setup) (more instructions once i have the parts)
