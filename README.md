@@ -15,6 +15,7 @@
 |Filament of your choice|an amount|20$|make the case|wherever you buy filament|
 |301230 lithium battery|2x|$6|Power The boards|[Typeractive](https://typeractive.xyz/products/lithium-battery-110mah?variant=43294731632871)|
 |1N4148 Diodes 100pc|1x|$9.26|be diodes|[Keebio](https://keeb.io/products/1n4148-diodes)|
+|Keycaps 1u 10pc|x4|15$|be keycaps|[adafruit](https://www.adafruit.com/product/5737)|
 |Everything||$138.31|||
 
 ## **Download Gerbers.zip for the gerbers and ErgoDecksVx.3mf/.step/.f3z for the case!**
