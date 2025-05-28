@@ -17,7 +17,7 @@
 |Everything||$138.31|||
 
 ## **Download Gerbers.zip for the gerbers and ErgoDecks.3mf for the case!**
--**Assembly**
+- ##**Assembly**
   - Solder diodes onto the PCB.
   - Solder switches onto the PCB.
   - Solder microcontrollers onto the pcb.
