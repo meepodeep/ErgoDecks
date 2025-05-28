@@ -30,7 +30,12 @@
   - Use m3 bolts to secure the pcb and top case to the bottom half of the case.
 
 - ## **Software**
-  - install/configure [ZMK](https://zmk.dev/docs/user-setup) (more instructions once i have the parts)
+  - Install/configure [ZMK](https://zmk.dev/docs/user-setup) 
+  - Follow those instructions until you get to User Config Setup Script
+  - For keyboard selection, select Helix
+  - For MCU board select nRFMicro 1.3/1.4
+  - Answer yes to copy in stock keymap for customization
+  - Follow the ZMK documentation from Installing the Firmware onwards
 
 ![image](https://github.com/user-attachments/assets/49c8ae91-7437-4b8a-8b07-92a017c727ab)
 ![image](https://github.com/user-attachments/assets/4712b373-c182-4556-9e80-d0b9a6c7b6ed)
