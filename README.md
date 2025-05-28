@@ -1,5 +1,6 @@
-# Split wireless ergo keyboard with 2 independent halves
+# ErgoDecks not ErgoDOX
 - ## Featuring
+  - ### Two independent Bluetooth halves.
   - ### 3d printed case
   - ### Custom PCB
   - ### Kalih Choc switch compatibility.
@@ -25,6 +26,9 @@
   - Use m3 bolts to secure the pcb to the bottom half of the case.
   - Attach the battery using double sided tape to the bottom half of the case in the battery area.
   - Use CA or plastic welding to attach the top half of the case. (more options for reusable mounting may be added in later versions)
+
+- ## **Software**
+  - install/configure [ZMK](https://zmk.dev/docs/user-setup) (more instructions once i have the parts)
 
 ![image](https://github.com/user-attachments/assets/4712b373-c182-4556-9e80-d0b9a6c7b6ed)
 ![image](https://github.com/user-attachments/assets/37c32809-bf4c-4fa4-82bf-326200d589b7)
