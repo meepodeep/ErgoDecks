@@ -1,8 +1,8 @@
-**Split wireless ergo keyboard with 2 independent halves**
-- Featuring
-  - 3d printed case
-  - Custom PCB
-  - Kalih Choc switch compatibility.
+# Split wireless ergo keyboard with 2 independent halves
+- ## Featuring
+  - ### 3d printed case
+  - ### Custom PCB
+  - ### Kalih Choc switch compatibility.
 
 **BOM**
 
