@@ -10,13 +10,14 @@
 | Item |Quantity |Total price+Shipping|Use in project|Item source|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Pcb  | 5x (minimum order) |$22.31|Mount Everything to this|JLCPCB|
-| Nice!Nano	  | 2x |$50.00|Drive the boards|[Typeractive](https://typeractive.xyz/products/nice-nano?_pos=1&_psq=nice%21&_ss=e&_v=1.0)|
+| NRF52840	  | 2x |$10.77|Drive the boards|[Aliexpress](https://www.aliexpress.us/item/3256807018711621.html?spm=a2g0o.productlist.main.1.5a6eie0Hie0H9D&aem_p4p_detail=202505281428561705173893544160001721434&algo_pvid=e8c677b1-5ee7-4a06-9cf3-86530aadc628&algo_exp_id=e8c677b1-5ee7-4a06-9cf3-86530aadc628-0&pdp_ext_f=%7B%22order%22%3A%22307%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%214.39%214.39%21%21%2131.45%2131.45%21%402101c71a17484677363603280ed1bd%2112000039797470328%21sea%21US%214381910819%21X&curPageLogUid=OhOCTEVGrX7q&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202505281428561705173893544160001721434_1)|
 |Kalih Choc 10pc	|4x|$31.00|Be switches|[Little Keyboards](https://www.littlekeyboards.com/collections/keyboard-switches/products/kailh-choc-low-profile-switches)|
-|Filament of your choice|an amount|20$|make the case|wherever you buy filament|
+|Filament of your choice|an amount|0$|make the case|wherever you buy filament ( I have this)|
 |301230 lithium battery|2x|$6|Power The boards|[Typeractive](https://typeractive.xyz/products/lithium-battery-110mah?variant=43294731632871)|
-|1N4148 Diodes 100pc|1x|$9.26|be diodes|[Keebio](https://keeb.io/products/1n4148-diodes)|
+|1N4148 Diodes 100pc|1x|$9.26|be diodes|[Aliexpress](https://www.aliexpress.us/item/3256806058794623.html?spm=a2g0o.productlist.main.2.76fa3771JY9hHq&algo_pvid=3d141e2c-c612-4dda-8ee7-d81e18ab9714&algo_exp_id=3d141e2c-c612-4dda-8ee7-d81e18ab9714-1&pdp_ext_f=%7B%22order%22%3A%22914%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.84%211.28%21%21%2113.14%219.15%21%402101c80217484699707521224ee30c%2112000036448323916%21sea%21US%214381910819%21X&curPageLogUid=FxGJkqmD4E5N&utparam-url=scene%3Asearch%7Cquery_from%3A)|
 |Keycaps 1u 10pc|x4|$21.11|be keycaps|[adafruit](https://www.adafruit.com/product/5737)|
-|Everything||$159.42|||
+|Keycaps 1.5u 2pc|x2|$4.66|be keycaps|[Aliexpress](https://www.aliexpress.us/item/3256805730011012.html?spm=a2g0o.productlist.main.8.4ba31a67KZIfyi&algo_pvid=95a4ad10-6234-413b-ba30-70ed94a3c48a&algo_exp_id=95a4ad10-6234-413b-ba30-70ed94a3c48a-7&pdp_ext_f=%7B%22order%22%3A%2263%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%212.33%212.33%21%21%212.33%212.33%21%40210337bc17484682352145208eab6e%2112000034838215571%21sea%21US%214381910819%21X&curPageLogUid=KAtk70CozSZd&utparam-url=scene%3Asearch%7Cquery_from%3A)|
+|Everything||$93.12|||
 
 ## **Download Gerbers.zip for the gerbers and ErgoDecksVx.3mf/.step/.f3z for the case!**
 - ## **Assembly**
