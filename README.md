@@ -29,6 +29,7 @@
 - ## **Software**
   - install/configure [ZMK](https://zmk.dev/docs/user-setup) (more instructions once i have the parts)
 
+![image](https://github.com/user-attachments/assets/49c8ae91-7437-4b8a-8b07-92a017c727ab)
 ![image](https://github.com/user-attachments/assets/4712b373-c182-4556-9e80-d0b9a6c7b6ed)
-![image](https://github.com/user-attachments/assets/37c32809-bf4c-4fa4-82bf-326200d589b7)
+![image](https://github.com/user-attachments/assets/2ce62174-ef9d-4f3f-a253-81af70ed6a5a)
 ![image](https://github.com/user-attachments/assets/054641cc-98f3-42de-8c28-08df6e4e4228)
