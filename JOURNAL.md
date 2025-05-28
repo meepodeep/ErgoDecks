@@ -15,7 +15,7 @@ Today, I designed the PCB for the ErgoDecks, I also researched what components t
 
 **Total time spent: 3h**
 
-# 5/24/25 made the case and updated PCB!
+# 5/24/25 Made the case and updated PCB!
 
 Today, I designed the Case in fusion and updated the PCB to support choc instead of mx switches.
 
