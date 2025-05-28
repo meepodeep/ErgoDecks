@@ -26,6 +26,7 @@
   - Solder microcontrollers onto the pcb.
   - Solder the battery to the bat terminals on the mcu.
   - Attach the battery using double sided tape to the bottom half of the case in the battery area.
+  - ![image](https://github.com/user-attachments/assets/371abf3e-b6f9-4f95-85ed-9dc5b281bec2)
   - Use m3 bolts to secure the pcb and top case to the bottom half of the case.
 
 - ## **Software**
@@ -33,5 +34,6 @@
 
 ![image](https://github.com/user-attachments/assets/49c8ae91-7437-4b8a-8b07-92a017c727ab)
 ![image](https://github.com/user-attachments/assets/4712b373-c182-4556-9e80-d0b9a6c7b6ed)
-![image](https://github.com/user-attachments/assets/2ce62174-ef9d-4f3f-a253-81af70ed6a5a)
+![image](https://github.com/user-attachments/assets/04a16e00-8f62-4c53-ae3c-68ec50fd374b)
 ![image](https://github.com/user-attachments/assets/054641cc-98f3-42de-8c28-08df6e4e4228)
+
