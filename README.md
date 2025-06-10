@@ -9,7 +9,7 @@
 
 | Item |Quantity |Total price+Shipping|Use in project|Item source|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Pcb  | 5x (minimum order) |$32.05|Mount Everything to this|PCBWAY|
+| Pcb  | 5x (minimum order) |$32.05|Mount Everything to this| JLCPCB |
 | NRF52840	  | 2x |$10.77|Drive the boards|[Aliexpress](https://www.aliexpress.us/item/3256807018711621.html?spm=a2g0o.productlist.main.1.5a6eie0Hie0H9D&aem_p4p_detail=202505281428561705173893544160001721434&algo_pvid=e8c677b1-5ee7-4a06-9cf3-86530aadc628&algo_exp_id=e8c677b1-5ee7-4a06-9cf3-86530aadc628-0&pdp_ext_f=%7B%22order%22%3A%22307%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%214.39%214.39%21%21%2131.45%2131.45%21%402101c71a17484677363603280ed1bd%2112000039797470328%21sea%21US%214381910819%21X&curPageLogUid=OhOCTEVGrX7q&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202505281428561705173893544160001721434_1)|
 |Kalih Choc 10pc	|4x|$31.00|Be switches|[Little Keyboards](https://www.littlekeyboards.com/collections/keyboard-switches/products/kailh-choc-low-profile-switches)|
 |Filament of your choice|an amount|0$|make the case|wherever you buy filament ( I have this)|
