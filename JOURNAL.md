@@ -23,3 +23,9 @@ Today, I designed the Case in fusion and updated the PCB to support choc instead
 ![image](https://github.com/user-attachments/assets/04fee82a-690b-471d-97b8-2c66d3adf53a)
 
 **Total time spent: 6h**
+
+# 5/28/25 Got rejected and made some changes!
+
+Today I realized I needed to change up my bom a bit. I changed the mcu to a generic one and I also made some updates to the case.
+
+**Total time spent: 1h**
