@@ -32,7 +32,7 @@
 - ## **Software**
   - Install/configure [ZMK](https://zmk.dev/docs/user-setup) 
   - Follow those instructions until you get to User Config Setup Script
-  - For keyboard selection, select Helix
+  - For keyboard selection, select A. Dux
   - For MCU board select nRFMicro 1.3/1.4
   - Answer yes to copy in stock keymap for customization
   - Follow the ZMK documentation from Installing the Firmware onwards
