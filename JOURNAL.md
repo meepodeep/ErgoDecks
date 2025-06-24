@@ -33,3 +33,5 @@ Today I realized I needed to change up my bom a bit. I changed the mcu to a gene
 # 5/28/25  So close but so far away.
 
 Today I got all of my parts and I started assembling the keyboards. I soldered on all of the switches, diodes, and the MCU, but what I didn't realize is I soldered the MCU one set of pins offset up. And when I desoldered it from the pins, neither of them connected to my pc anymore.
+
+**Total time spent: 11h**
