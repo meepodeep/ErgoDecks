@@ -30,8 +30,18 @@ Today I realized I needed to change up my bom a bit. I changed the mcu to a gene
 
 **Total time spent: 1h**
 
-# 5/28/25  So close but so far away.
+# 6/23/25  So close but so far away.
 
 Today I got all of my parts and I started assembling the keyboards. I soldered on all of the switches, diodes, and the MCU, but what I didn't realize is I soldered the MCU one set of pins offset up. And when I desoldered it from the pins, neither of them connected to my pc anymore.
 
 **Total time spent: 11h**
+
+# 6/25/25 a ITWORKS! but i suck at typing on it.....
+
+Today I finally got it working! I wrote my own config for zmk and replaced the dead mcus! i still suck at typing thoooo i think thats just skill issue not keyboard issue.....
+
+![image](https://github.com/user-attachments/assets/0b5feddd-a89b-448d-9f3e-03073516f218)
+![image](https://github.com/user-attachments/assets/1c57e422-93d5-4d99-a07f-c2201cbfe5b0)
+![image](https://github.com/user-attachments/assets/602d6fdb-662b-4438-a57f-f8248e01ae6a)
+
+**Total time spent: 12h**
