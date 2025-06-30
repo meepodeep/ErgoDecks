@@ -45,3 +45,9 @@ Today I finally got it working! I wrote my own config for zmk and replaced the d
 ![image](https://github.com/user-attachments/assets/602d6fdb-662b-4438-a57f-f8248e01ae6a)
 
 **Total time spent: 12h**
+
+# 6/29/2025 I did the poster!
+
+Today I made the poster!
+![ErgoDecks](https://github.com/user-attachments/assets/c0761e32-12c3-4c40-87c7-03e7e37a6ce4)
+**Total time spent 2h**
